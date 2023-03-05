@@ -1,0 +1,49 @@
+table
+{
+    padding: 30px;
+    border-collapse: collapse;
+}
+.th
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background-color: rgb(231, 201, 51);
+}
+.head
+{
+    border: 0px;
+}
+.th7
+{
+    background-color: aqua;
+}
+
+th
+{
+    width: 70px;
+    height: 25px;
+}
+.th8
+{
+    background-color: red;
+}
+.t7
+{
+    color:blue;
+}
+sub
+{
+    color: black;
+    font-size: 12px;
+}
+.cn
+{
+    color: red;
+}
+td
+{
+    text-align: center;
+    border-style: groove;
+    font-size: 20px;
+}

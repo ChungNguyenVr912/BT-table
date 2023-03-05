@@ -1,0 +1,37 @@
+div
+{
+    padding: 30px;
+    background-color: orange;
+    margin: 30px;
+    margin-right: 30px;
+    width: 50%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+th
+{
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+}
+.black
+{
+    background-color: black;
+}
+.white
+{
+    background-color: white;
+}
+table
+{
+    border-collapse: collapse;
+    border: 2px black solid;
+}
+.chess
+{
+    width: 450px;
+    height: 450px;
+    /* display:inline-block; 
+    vertical-align:top; */
+}
